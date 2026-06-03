@@ -1,0 +1,32 @@
+# Python虚拟环境
+venv/
+env/
+.env
+
+# Python字节码
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 调试和日志
+*.log
+debug/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+
+# 测试输出
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 构建输出
+build/
+dist/
+*.egg-info/
+
+# 系统文件
+.DS_Store
+Thumbs.db
